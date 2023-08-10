@@ -1,0 +1,96 @@
+#name {
+    font-family: Quicksand;
+}
+
+#quote {
+    font-family: Borel;
+    text-align: center;
+}
+
+#passion2 {
+    margin-left: 150px;
+}
+
+#passion3 {
+    margin-left: 300px;
+}
+
+.passion {
+    font-family: Quicksand;
+}
+
+#rock {
+    margin-left: 600px;
+}
+
+#underWord {
+    font-family: Quicksand;
+    text-align: center;
+    
+}
+
+#Top {
+    background-color: rgb(34, 145, 134);
+    border-style: inset;
+    border-width: 5px;
+}
+
+/* #navigation {
+    display: inline-block;
+    background-color: aliceblue;
+} */
+
+#Home {
+    display: inline-block;
+    background-color: rgb(233, 233, 202);
+    padding: 10px 25px;
+    text-decoration: none;
+    border-style: outset;
+    border-width: 5px;
+    border-color: gray;
+    margin: 5px;
+}
+
+#About {
+    display: inline-block;
+    background-color: rgb(233, 233, 202);
+    padding: 10px 25px;
+    text-decoration: none;
+    border-style: outset;
+    border-width: 5px;
+    border-color: gray;
+    margin: 5px;
+}
+
+#Portfolio {
+    display: inline-block;
+    background-color: rgb(233, 233, 202);
+    padding: 10px 25px;
+    text-decoration: none;
+    border-style: outset;
+    border-width: 5px;
+    border-color: gray;
+    margin: 5px;
+}
+.hobbies {
+    font-size: 18px;
+}
+
+/* #programming {
+    font-size: 24px;
+} */
+
+html {
+    background-color: steelblue;
+}
+
+#firstProject {
+    display: inline-block;
+    background-color: rgb(233, 233, 202);
+    padding: 10px 25px;
+    text-decoration: none;
+    border-style: outset;
+    border-width: 5px;
+    border-color: gray;
+    margin: 5px;
+}
